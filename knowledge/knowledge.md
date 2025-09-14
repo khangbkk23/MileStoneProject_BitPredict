@@ -1,4 +1,4 @@
-![alt text](img/image.png)
+![alt text](../img/image.png)
 
 What we're going to cover
 Are you ready?
@@ -27,3 +27,6 @@ We've got a lot to go through.
 * Demonstrating why forecasting in an open system is BS (the turkey problem)
 
 **By the end of this project**, we'll have a solid understanding of how to approach time series forecasting problems using deep learning with TensorFlow.
+
+## Types of time series problems
+![alt text](../img/TypesOfTS.png)
